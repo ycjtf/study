@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 戴尔耳机
  *
- * @author wql
+ * @author ycjtf
  */
 public class DellHeadphone implements Headphone {
 

@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 鼠标
  *
- * @author wql
+ * @author ycjtf
  */
 public interface Mouse {
 

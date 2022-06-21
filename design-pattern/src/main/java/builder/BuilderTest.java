@@ -3,7 +3,7 @@ package builder;
 import org.junit.Test;
 
 /**
- * @author wql
+ * @author ycjtf
  * @description 建造者模式，属性字段较多时推荐使用，创建不可变属性对象时推荐使用
  */
 public class BuilderTest {

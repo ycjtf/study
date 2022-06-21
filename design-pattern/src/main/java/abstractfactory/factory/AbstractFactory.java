@@ -9,7 +9,7 @@ import abstractfactory.product.Mouse;
  * 工厂方法:针对某一种产品的抽象
  * 抽象工厂:对一种产品族的抽象
  *
- * @author wql
+ * @author ycjtf
  */
 public interface AbstractFactory {
 

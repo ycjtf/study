@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 戴尔鼠标
  *
- * @author wql
+ * @author ycjtf
  */
 public class DellMouse implements Mouse {
 

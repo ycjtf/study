@@ -3,7 +3,7 @@ package singleton;
 /**
  * 懒汉式
  *
- * @author wql
+ * @author ycjtf
  * @date 2021/03/14
  */
 public class HungryMan {

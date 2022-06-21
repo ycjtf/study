@@ -4,7 +4,7 @@ import factory.Car;
 import factory.WuLiHongGuang;
 
 /**
- * @author w
+ * @author ycjtf
  * 工厂方法模式
  */
 public class WuLiFactory implements CarFactory {

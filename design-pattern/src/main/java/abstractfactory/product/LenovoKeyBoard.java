@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 联想键盘
  *
- * @author wql
+ * @author ycjtf
  */
 public class LenovoKeyBoard implements KeyBoard {
 

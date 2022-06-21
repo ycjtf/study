@@ -5,7 +5,7 @@ package prototype;
  * 如果成员变量是引用类型，那么该成员变量的类也需要实现 Cloneable 接口,
  * 并在 #clone 方法中显式的为clone后的对象赋值
  *
- * @author wql
+ * @author ycjtf
  * @see Cloneable
  * @see #clone()
  */

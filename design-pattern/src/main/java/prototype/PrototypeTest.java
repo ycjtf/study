@@ -3,7 +3,7 @@ package prototype;
 import org.junit.Test;
 
 /**
- * @author wql
+ * @author ycjtf
  */
 public class PrototypeTest {
 

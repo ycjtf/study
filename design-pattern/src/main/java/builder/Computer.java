@@ -1,7 +1,7 @@
 package builder;
 
 /**
- * @author wql
+ * @author ycjtf
  */
 public class Computer {
 

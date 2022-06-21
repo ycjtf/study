@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 联想鼠标
  *
- * @author wql
+ * @author ycjtf
  */
 public class LenovoMouse implements Mouse {
 

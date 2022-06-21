@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 戴尔键盘
  *
- * @author wql
+ * @author ycjtf
  */
 public class DellKeyBoard implements KeyBoard {
 

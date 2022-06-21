@@ -1,7 +1,7 @@
 package singleton;
 
 /**
- * @author wql
+ * @author ycjtf
  */
 
 public enum EnumMode {

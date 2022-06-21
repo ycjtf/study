@@ -3,7 +3,7 @@ package singleton;
 /**
  * 恶汉式
  *
- * @author w
+ * @author ycjtf
  * @date 2021/03/14
  */
 public class LazyMan {

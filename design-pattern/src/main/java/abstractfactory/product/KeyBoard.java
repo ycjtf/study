@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 键盘
  *
- * @author w
+ * @author ycjtf
  */
 public interface KeyBoard {
 

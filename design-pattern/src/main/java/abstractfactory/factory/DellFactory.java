@@ -5,7 +5,7 @@ import abstractfactory.product.*;
 /**
  * 戴尔工厂
  *
- * @author wql
+ * @author ycjtf
  */
 public class DellFactory implements AbstractFactory {
 

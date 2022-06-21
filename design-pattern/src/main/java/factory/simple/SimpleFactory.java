@@ -5,7 +5,7 @@ import factory.Car;
 import factory.WuLiHongGuang;
 
 /**
- * @author w
+ * @author ycjtf
  *
  * 简单工厂模式
  * 1.每增加一个实现需要修改原来的代码 #create() 方法

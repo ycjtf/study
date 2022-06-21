@@ -9,7 +9,7 @@ import abstractfactory.product.Mouse;
 import org.junit.Test;
 
 /**
- * @author w
+ * @author ycjtf
  */
 public class AbstractFactoryTest {
 

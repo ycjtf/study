@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 联想耳机
  *
- * @author wql
+ * @author ycjtf
  */
 public class LenovoHeadphone implements Headphone {
 

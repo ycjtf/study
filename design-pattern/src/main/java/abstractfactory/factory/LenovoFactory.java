@@ -5,7 +5,7 @@ import abstractfactory.product.*;
 /**
  * 联想工厂
  *
- * @author wql
+ * @author ycjtf
  */
 public class LenovoFactory implements AbstractFactory {
 

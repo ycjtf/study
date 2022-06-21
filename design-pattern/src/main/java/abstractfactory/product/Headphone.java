@@ -3,7 +3,7 @@ package abstractfactory.product;
 /**
  * 耳机
  *
- * @author wql
+ * @author ycjtf
  */
 public interface Headphone {
 
