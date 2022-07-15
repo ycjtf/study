@@ -25,6 +25,7 @@
 
     <modules>
         <module>design-pattern</module>
+        <module>little</module>
     </modules>
 
 </project>
