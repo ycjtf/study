@@ -12,7 +12,8 @@ public class TestCase {
 
     @Test
     public void t0() {
-        p(new ArrayList<>());
+        p(new ArrayList<Person>());
+        c(new ArrayList<Child>());
     }
 
     void p(List<? super Person> dataList) {
